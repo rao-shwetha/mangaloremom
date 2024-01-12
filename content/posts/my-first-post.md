@@ -6,6 +6,6 @@ draft = false
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+This is **bold** text, and this is *emphasized* text. This is my SECOND post. 
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [Hugo](https://gohugo.io) website! 
