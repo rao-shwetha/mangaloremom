@@ -1,15 +1,15 @@
 ---
 author: Katheryn Fox
-title: About Me
+title: Über mich
 date: 2021-07-15
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
 
-Hugo makes use of a variety of open source projects including:
+Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
 
 - https://github.com/yuin/goldmark
 - https://github.com/alecthomas/chroma
