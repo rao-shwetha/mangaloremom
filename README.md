@@ -16,3 +16,16 @@ git clone https://github.com/rao-shwetha/mangaloremom.git
 ``` sh
 git submodule update --init
 ```
+
+3. Install npm modules
+
+``` sh
+npm install
+```
+
+4.  Run postcss
+
+``` sh
+npm i -g postcss-cli
+```
+
