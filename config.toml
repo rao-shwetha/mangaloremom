@@ -1,6 +1,6 @@
 baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Mangalore Mom"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introTitle = "Hey! I'm Mangaaore Mom!"
+      introSubtitle = "Managlore mom that loves to cook."
       introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
@@ -42,7 +42,7 @@ DefaultContentLanguageInSubdir = true
     title = "Blist (mehrsprachig)"
     description = "Modernes Blog-Theme für Ihre Hugo-Site."
     [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
+      introTitle = "Hallo, ich bin Mangaaore Mom!"
       introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
       introPhoto = "/picture.jpg"
       logo = "/blist-logo-de.png"
@@ -66,7 +66,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
+      introTitle = "Salut! Je suis Mangaaore Mom!"
       introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
       introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
@@ -112,7 +112,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2021 - Mangaaore Mom! · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
