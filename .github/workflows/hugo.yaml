@@ -52,6 +52,8 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Download postcss
         run: "npm i -g postcss-cli"
+      - name: Download postcss
+        run: "npm install --save-dev postcss-import"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
