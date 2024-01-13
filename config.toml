@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Mangalore Mom!"
-      introSubtitle = "Managlore mom that loves to cook."
-      introPhoto = "/mangaloremom/picture.jpg"
+      introTitle = "Nourishing Mangalore's Veg Heritage"
+      introSubtitle = "Easy Recipes, Timeless Flavors"
+      introPhoto = "/mangaloremom/Mom2.jpg"
       logo = "/mangaloremom/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
