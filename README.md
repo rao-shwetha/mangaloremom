@@ -29,3 +29,9 @@ npm install
 npm i -g postcss-cli
 ```
 
+5. Hugo serve
+
+``` sh
+hugo serve
+```
+
