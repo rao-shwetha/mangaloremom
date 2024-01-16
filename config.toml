@@ -14,8 +14,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Nourishing Mangalore's Veg Heritage"
       introSubtitle = "Healthy Recipes, Timeless Flavors"
-      introPhoto = "/mangaloremom/Mom2.jpg"
-      logo = "/mangaloremom/blist-logo.png"
+      introPhoto = "/Mom2.jpg"
+      logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Coastal Veg Classics"
         url = "blog"
