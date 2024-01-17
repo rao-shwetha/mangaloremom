@@ -36,7 +36,7 @@ In the tranquil coastal homes of Mangalore, when a craving for a light and gut-f
 2. Add the smooth coconut paste to the pot. Let it boil for 1 minute, then simmer the heat to a minimum.
 3. Add beaten yogurt to the mixture.
 4. For tempering, use a small, deep pan to roast mustard seeds, split black gram, fenugreek seeds, curry leaves in oil until the seeds sizzle, taking care not to burn them. Add this mixture into the curry.
-5. Optional: Add red chillies for seasoning.
+5. As an optional step, feel free to enhance the spice level according to your taste by adding red chillies during tempering
 6. Simmer for a few more minutes until the flavors meld together.
 
 Feel free to experiment and make it your own! Happy cooking!

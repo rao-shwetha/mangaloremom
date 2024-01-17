@@ -42,6 +42,7 @@ Known as *Kempu Harive Bennehuli* in Mangalore's coastal homes, this **Lush Amar
 1. Transfer the chopped leaves and stems to a cooking vessel, add turmeric, fenugreek seeds (methi), green chillies, and salt. Cook for 10 minutes.
 2. Add squeezed tamarind water and butter and boil for 2 minutes.
 3. Lower the heat and mix in the dissolved Asafoetida (Hing). Give it a minute and switch off the heat.
-4. For tempering, use a small, deep pan to roast mustard seeds, urad dal, and sliced garlic in ghee until the seeds sizzle, taking care not to burn them. Your dish is now ready to be served hot!
+4. For tempering, use a small, deep pan to roast mustard seeds, urad dal, and sliced garlic in ghee until the seeds sizzle, taking care not to burn them. 
+5. Pour the tempering over the dish. It is now ready to be served hot!
 
 Enjoy this nutritious and flavorful **Lush Amaranth Melody**!
