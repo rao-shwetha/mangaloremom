@@ -14,8 +14,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Nourishing Mangalore's Veg Heritage"
       introSubtitle = "Healthy Recipes, Timeless Flavors"
-      introPhoto = "/mangaloremom/Mom2.jpg"
       logo = "/MangaloreMomLogo.png"
+      introPhoto = "/Mom2.jpg"
     [[languages.en.menu.main]]
         name = "Coastal Veg Classics"
         url = "blog"
@@ -78,7 +78,7 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+  system = "disqus"
 
   # Options for giscus, exclude hyphens
   repo = ""
@@ -123,3 +123,11 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+    
+[services]
+  [services.googleAnalytics]
+    ID = 'G-5S0ES1Z943'
+    
+  [services.disqus]
+    shortname = 'mangaloremom.disqus.com'
+  
