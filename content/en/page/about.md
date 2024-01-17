@@ -1,26 +1,14 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
-description:
+author: Savithri Rao
+title: Hello there!
+date: 2024-01-17
+description: "About Page"
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm Savithri Rao, your Mangalore Mom. I've been weaving kitchen magic for over 28 years! My culinary journey is deeply rooted in the love I have for my mom's cooking, and I strive to infuse that same warmth into every dish I create. Passion fuels everything I do, especially my commitment to healthy living. I believe in savoring nutritious meals, maintaining a serene mind with positive vibes, and embracing the holistic goodness of yoga.
 
-Hugo makes use of a variety of open source projects including:
+As a member of the Mangalore Brahmin community, my food is a reflection of my roots. While Mangalorean cuisine often brings to mind images of seafood, I'm excited to shine a spotlight on the rich vegetarian heritage it boasts. This platform is my way of sharing the flavors of Mangalore, one wholesome recipe at a time.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Whether you're here to recreate a taste of Mangalore or to introduce someone curious to our culinary world, I hope you find joy in these healthy yet simple recipes. Feel free to share this link, because nothing says love like passing on a piece of Mangalore! Thanks for joining me on this journey. 🌼✨ 
