@@ -127,6 +127,7 @@ DefaultContentLanguageInSubdir = true
 [services]
   [services.googleAnalytics]
     ID = 'G-MEASUREMENT_ID'
+    
   [services.disqus]
-    shortname = 'your-disqus-shortname'
+    shortname = 'mangaloremom.disqus.com'
   
