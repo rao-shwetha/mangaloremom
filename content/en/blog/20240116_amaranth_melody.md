@@ -7,8 +7,6 @@ tags: ["recipe"]
 thumbnail: /20240113_131118.jpg
 ---
 
-# Lush Amaranth Melody
-
 Known as *Kempu Harive Bennehuli* in Mangalore's coastal homes, this **Lush Amaranth Melody** surprises with nuanced tastes that will steal your heart. Easy on the stomach and a treat for your taste buds, it pairs effortlessly with rice. Fancy a change? Enjoy it as a tasty soup! Get ready for a dish that brings joy to every bite.
 
 **Preparation Time:** 30 minutes  

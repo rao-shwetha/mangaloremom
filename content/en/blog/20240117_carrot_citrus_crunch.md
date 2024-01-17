@@ -6,7 +6,6 @@ description: "Carrot Kosambari"
 tags: ["recipe"]
 thumbnail: /20240116_130506.jpg
 ---
-# Carrot Citrus Crunch Recipe
 
 No vegetarian festive spread in Mangalore is complete without Kosambari. It's a classic South Indian salad with pulses, cucumber, and a dash of mustard seeds. We usually use split green gram for that extra flavor. While some enjoy these salads as snacks, we mostly have them as part of a full-course meal. Today, I’ll share the recipe to a special version of Kosambari that my family loves – I fondly call it Carrot Citrus Crunch.
 
