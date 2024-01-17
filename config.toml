@@ -78,7 +78,7 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+  system = "disqus"
 
   # Options for giscus, exclude hyphens
   repo = ""
@@ -126,7 +126,7 @@ DefaultContentLanguageInSubdir = true
     
 [services]
   [services.googleAnalytics]
-    ID = 'G-MEASUREMENT_ID'
+    ID = 'G-5S0ES1Z943'
     
   [services.disqus]
     shortname = 'mangaloremom.disqus.com'
