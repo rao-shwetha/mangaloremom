@@ -1,5 +1,12 @@
-+++ 
-+++
+---
+author: "Savithri Rao"
+title: "Tangy Gourd Curry"
+date: "2024-01-17"
+description: "Kumbala Kai Majjige Huli"
+tags: ["recipe"]
+thumbnail: /20240116_111906.jpg
+---
+
 # Tangy Gourd Curry
 
 In the tranquil coastal homes of Mangalore, when a craving for a light and gut-friendly dish arises, we turn to the delightful Kumbala Kai Majjige Huli. Let's call it Tangy Gourd Curry. This cherished recipe has been a comforting companion, offering a burst of flavors to the taste buds. Whether paired with steaming hot rice, soft chapatis, or fluffy idlis, this versatile dish brings a symphony of coastal flavors to the table, capturing the essence of Mangalore's culinary charm.
