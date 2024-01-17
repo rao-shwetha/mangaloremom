@@ -123,3 +123,10 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+    
+[services]
+  [services.googleAnalytics]
+    ID = 'G-MEASUREMENT_ID'
+  [services.disqus]
+    shortname = 'your-disqus-shortname'
+  
