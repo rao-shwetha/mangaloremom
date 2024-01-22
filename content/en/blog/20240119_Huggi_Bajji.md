@@ -28,7 +28,7 @@ Huggi is a unique dish crafted during the celestial phase of Dhanur Masa, markin
 1. Wash rice and green gram thoroughly.
 
 **Cooking Steps:**
-1. Combine the ingredients and pressure cook for 12 minutes. Ensure the rice is soft!
+1. Combine the ingredients, cook for about 12 minutes or until the rice is soft
 
 *Your Huggi is ready!*
 
@@ -40,8 +40,6 @@ Huggi is a unique dish crafted during the celestial phase of Dhanur Masa, markin
 
 **Ingredients:**
 - 50 gm Tamarind
-- 4 Green chillies
-- 3-inch Ginger
 - 1 1/2 cup Jaggery pieces
 - 1 tsp Salt
 - 1 1/4 cup Water
@@ -50,6 +48,8 @@ Huggi is a unique dish crafted during the celestial phase of Dhanur Masa, markin
 - 1/4 tsp Split black gram (Urad Dal)
 - 2 tsp Ghee
 - 2 tbsp Curry leaves
+- 4 Green chillies
+- 3-inch Ginger
 
 **Preparation Steps:**
 1. Chop chillies, ginger, and curry leaves into small pieces.  
@@ -57,7 +57,7 @@ Huggi is a unique dish crafted during the celestial phase of Dhanur Masa, markin
 
 **Cooking Steps:**
 1. In a vessel, boil tamarind pulp, jaggery, and salt for 3 minutes.
-2. For tempering, use a small, deep pan to roast mustard seeds, split black gram, and curry leaves until they sizzle. Take care not to burn the seeds.
+2. For tempering, use a small, deep pan to roast mustard seeds, split black gram, and curry leaves until they sizzle. Take care not to burn the seeds. Add chopped green chillies, ginger and roast for a minute. 
 3. Add the tempering to the bajji mix.  
 
 *Bajji is now ready to be savored. Experience the delightful blend of flavors with Huggi & Bajji!*
