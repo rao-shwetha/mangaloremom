@@ -33,8 +33,8 @@ Known as *Kempu Harive Bennehuli* in Mangalore's coastal homes, this **Lush Amar
 3. Wash the leaves 2 to 3 times in clean water.
 4. Chop the leaves into small pieces and cut the stems into 3-inch segments.
 5. Peel and slice the garlic vertically.
-6. Soak the tamarind in water for at least 10 minutes.
-7. Take 1 teaspoon of water and dissolve the Asafoetida.
+6. Soak the tamarind in water for at least 5 minutes.
+7. Take 1 teaspoon of lukewarm water and dissolve the Asafoetida.
 
 ## Cooking Steps:
 1. Transfer the chopped leaves and stems to a cooking vessel, add turmeric, fenugreek seeds (methi), green chillies, and salt. Cook for 10 minutes.
