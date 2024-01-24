@@ -1,7 +1,7 @@
 ---
 author: "Savithri Rao"
 title: "Okra Euphoria"
-date: 2024-01-24
+date: 2024-01-23
 description: "Bendekayi Bolhuli"
 tags: ["recipe"]
 thumbnail: /20240119_Okra_Euphoria.jpg
