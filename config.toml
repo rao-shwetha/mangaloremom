@@ -129,5 +129,5 @@ DefaultContentLanguageInSubdir = true
     ID = 'G-5S0ES1Z943'
     
   [services.disqus]
-    shortname = 'mangaloremom.disqus.com'
+    shortname = 'mangaloremom'
   
