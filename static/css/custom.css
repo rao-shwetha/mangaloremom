@@ -1,0 +1,5 @@
+@media (min-width: 801px) {
+  .post-thumbnail {
+    max-height: 400px; /* Set the maximum height for desktop */
+  }
+}

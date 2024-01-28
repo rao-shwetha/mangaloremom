@@ -25,6 +25,8 @@ DefaultContentLanguageInSubdir = true
         url = "page/about/"
         weight = 2
 [params]
+
+  custom_css = ["css/custom.css"]
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
