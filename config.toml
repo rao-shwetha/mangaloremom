@@ -106,7 +106,7 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.instagram.com/mangaloremom/"
     
 [[menu.main]]
   name = "About"
