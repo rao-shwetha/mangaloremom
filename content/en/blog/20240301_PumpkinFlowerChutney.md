@@ -6,9 +6,6 @@ description: "Chinikai Hoovina Chutney"
 tags: ["recipe"]
 thumbnail: /20240123_PumpkinFlowerChutney.jpg
 ---
-Certainly! Here's the provided text converted to Markdown format:
-
-# Chinikai Hoovina Chutney
 
 Discover a burst of flavors with this delectable **Chinikai Hoovina Chutney** crafted to perfection for an exquisite dining experience. Ideal to pair with chapatis, rice, bread, or dosa, this chutney is a delightful blend of pumpkin flowers, aromatic spices, and coconut goodness. Let your taste buds revel in the symphony of textures and flavors – a true culinary delight!
 
@@ -19,7 +16,7 @@ Discover a burst of flavors with this delectable **Chinikai Hoovina Chutney** cr
 - 3 gms Tamarind
 - ½ cup Water
 - Salt to taste
-- 1 ½ tbsp Split urad dal
+- 1 ½ tbsp Split Black Gram (urad dal)
 - 2 pinches Asafoetida
 - 2 Red chillies
 - 1 tsp Oil
