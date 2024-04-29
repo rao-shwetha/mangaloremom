@@ -27,7 +27,7 @@ Experience the vibrant flavors of coastal Karnataka with Mangalore Cucumber & Ca
 - 1 teaspoon Chopped Curry Leaves
 
 ## Preparation Steps:
-1. Peel the outer skin of the Mangalore Cucumber (Sauthe) and separate the seed portion. 
+1. Peel the outer skin of the Mangalore Cucumber (Sauthe) and separate the seed portion. This portion will not be used in this recipe. To use the seed portion, check out the Mangalore Cucumber Seed Soup recipe on this website. 
 2. Dice the cucumber into 1-inch pieces.
 
 ## Cooking Steps:
