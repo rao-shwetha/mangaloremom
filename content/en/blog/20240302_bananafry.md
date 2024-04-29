@@ -25,6 +25,6 @@ Embark on a culinary journey with this Banana Fry, a cherished South Indian snac
 1. In a deep cooking pan (kadai), heat the clarified butter (ghee) over medium heat. Add the banana slices and fry for 10 minutes.
 2. Stir occasionally to avoid excessive flipping, ensuring the bananas are evenly fried in ghee.
 3. Optionally, sprinkle sugar for a touch of sweetness.
-4. Once golden and crispy, your Nendra Banana Fry is ready to be served.
+4. Once golden, your Nendra Banana Fry is ready to be served.
 
 Enjoy this nutritious and delightful snack at any time!
