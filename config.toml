@@ -24,6 +24,10 @@ DefaultContentLanguageInSubdir = true
         name = "About"
         url = "page/about/"
         weight = 2
+    [[languages.en.menu.main]]
+        name = "Portfolio"
+        url = "page/portfolio/"
+        weight = 2
 [params]
 
   custom_css = ["css/custom.css"]
